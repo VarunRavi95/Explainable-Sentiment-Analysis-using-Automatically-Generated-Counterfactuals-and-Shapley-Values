@@ -1,4 +1,4 @@
-# Text_Mining_Project
+# Explainable Sentiment Analysis using Automatically Generated Counterfactuals and Shapley Values
 This is a repository for the Text Mining Project on Explainable Sentiment Analysis using Automatically Generated Counterfactuals and Shapley Values.
 
 The augmented dataset here consists of the original and human generated counterfactuals dataset from Kaushik et.al and automatically generated counterfactuals from Yang et.al. 
